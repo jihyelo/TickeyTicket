@@ -52,6 +52,10 @@
 
 ## 📌 구현 기능
 
+<div>
+  <video src="./src/assets/screen.mp4" alt="시연영상" autoplay loop></video>
+</div>
+
 ### 1. 로그인 / 회원가입(위치 동의 및 개인정보 동의)
 - 이름, 닉네임(필수), 이메일, 비밀번호, 전화번호, 생년월일, 성별
 
