@@ -53,7 +53,7 @@
 ## 📌 구현 기능
 
 <div>
-  <video src="./src/assets/screen.mp4" alt="시연영상" autoplay loop></video>
+ <img src="https://github.com/wecode-bootcamp-korea/48-3rd-TickeyTicket-frontend/assets/137980381/ec8fb6f2-4b3c-4fa7-8d26-0641158bd8c6") alt="시연영상">
 </div>
 
 ### 1. 로그인 / 회원가입(위치 동의 및 개인정보 동의)
